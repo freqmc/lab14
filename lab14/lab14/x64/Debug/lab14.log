@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\Administrator\source\repos\lab14\FileName.c(22,1): warning C4716: 'put_elems': must return a value
+  lab14.vcxproj -> C:\Users\Administrator\source\repos\lab14\x64\Debug\lab14.exe
